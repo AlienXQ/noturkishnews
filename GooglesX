@@ -1,0 +1,19 @@
+! name: GooglesX
+! description: My Googles
+! public: true
+! author: GogglesX
+! avatar:#de0320
+
+$discard,site=onedio.com
+$discard,site=birgun.net
+$discard,site=hurriyet.com.tr
+$discard,site=milliyet.com.tr
+$discard,site=donanimhaber.com
+$discard,site=eksisozluk.com
+$discard,site=donanimhaber.com
+$discard,site=incisozluk.com.tr
+$discard,site=uludagsozluk.com
+$discard,site=twitter.com
+$discard,site=facebook.com
+$discard,site=instagram.com
+$discard,site=tiktok.com
