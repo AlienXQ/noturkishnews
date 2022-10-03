@@ -17,3 +17,5 @@ $discard,site=twitter.com
 $discard,site=facebook.com
 $discard,site=instagram.com
 $discard,site=tiktok.com
+$discard,site=sabah.com.tr
+$discard,site=cnnturk.com
