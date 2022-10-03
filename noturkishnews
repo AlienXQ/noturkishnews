@@ -1,8 +1,8 @@
 ! name: No Turkish News
 ! description: Türk Haber sitelerinden kurtul.
 ! public: true
-! author: 
-! avatar: 
+! author: GogglesX
+! avatar:#de0320
 
 $discard,site=onedio.com
 $discard,site=birgun.net
