@@ -39,4 +39,9 @@ $discard,site=aydinlik.com.tr
 $discard,site=tr.wikipedia.org
 $discard,site=tr.m.wikipedia.org
 $discard,site=simitcay.com
+$discard,site=haberler.com
+$discard,site=milligazete.com.tr
+$discard,site=gazeteduvar.com
+$discard,site=yenisafak.com
+$boost=3,site=evrimagaci.org
 
