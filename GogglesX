@@ -43,5 +43,5 @@ $discard,site=haberler.com
 $discard,site=milligazete.com.tr
 $discard,site=gazeteduvar.com
 $discard,site=yenisafak.com
-$boost=3,site=evrimagaci.org
+$boost=4,site=evrimagaci.org
 
