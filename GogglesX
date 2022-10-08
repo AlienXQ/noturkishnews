@@ -5,6 +5,7 @@
 ! avatar:#de0320
 
 $boost=4,site=evrimagaci.org
+$boost=3,site=tr.wictionary.org
 $discard,site=onedio.com
 $discard,site=birgun.net
 $discard,site=hurriyet.com.tr
