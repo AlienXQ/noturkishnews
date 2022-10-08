@@ -44,5 +44,4 @@ $discard,site=milligazete.com.tr
 $discard,site=gazeteduvar.com
 $discard,site=yenisafak.com
 $boost=4,site=evrimagaci.org
-$boost=4,site=wolframalpha.com
 
