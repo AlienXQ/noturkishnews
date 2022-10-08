@@ -4,6 +4,7 @@
 ! author: GogglesX
 ! avatar:#de0320
 
+$boost=4,site=evrimagaci.org
 $discard,site=onedio.com
 $discard,site=birgun.net
 $discard,site=hurriyet.com.tr
@@ -43,5 +44,9 @@ $discard,site=haberler.com
 $discard,site=milligazete.com.tr
 $discard,site=gazeteduvar.com
 $discard,site=yenisafak.com
-$boost=4,site=evrimagaci.org
+$discard,site=sondakika.com
+$discard,site=star.com.tr
+$discard,site=takvim.com.tr
+$discard,site=fotomac.com.tr
+$discard,site=sporx.com
 
