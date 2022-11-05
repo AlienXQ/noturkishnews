@@ -4,15 +4,11 @@
 ! author: GogglesX
 ! avatar:#de0320
 
-$boost=4,site=evrimagaci.org
-$boost=3,site=tr.wictionary.org
+$boost=3,site=evrimagaci.org
 $discard,site=onedio.com
 $discard,site=birgun.net
 $discard,site=hurriyet.com.tr
 $discard,site=milliyet.com.tr
-$discard,site=donanimhaber.com
-$discard,site=eksisozluk.com
-$discard,site=donanimhaber.com
 $discard,site=incisozluk.com.tr
 $discard,site=uludagsozluk.com
 $discard,site=twitter.com
@@ -38,8 +34,6 @@ $discard,site=ensonhaber.com
 $discard,site=t24.com.tr
 $discard,site=gzt.com
 $discard,site=aydinlik.com.tr
-$discard,site=tr.wikipedia.org
-$discard,site=tr.m.wikipedia.org
 $discard,site=simitcay.com
 $discard,site=haberler.com
 $discard,site=milligazete.com.tr
