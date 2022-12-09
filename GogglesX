@@ -75,3 +75,5 @@ $discard,site=sputniknews.com
 $discard,site=risalehaber.com
 $discard,site=samanyoluhaber.com
 $discard,site=spotify.com
+$discard,site=shiftdelete.com
+$discard,site=apps.apple.com
