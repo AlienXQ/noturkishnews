@@ -7,7 +7,8 @@
 $boost=3,site=evrimagaci.org
 $boost=3,site=gidadedektifi.com
 $boost=3,site=wiktionary.org
-$boost=3,site=wikiquote.org
+$boost=3,site=dictionnaire-academie.fr
+$boost=3,site=dictionary.cambridge.org
 $discard,site=onedio.com
 $discard,site=birgun.net
 $discard,site=hurriyet.com.tr
