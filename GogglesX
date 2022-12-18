@@ -2,7 +2,7 @@
 ! description: My Goggles
 ! public: true
 ! author: GogglesX
-! avatar:#f2f4f7
+! avatar:#f9fafd
 
 $boost=2,site=evrimagaci.org
 $boost=1,site=gidadedektifi.com
@@ -84,3 +84,4 @@ $discard,site=internethaber.com
 $discard,site=news.google.com
 $discard,site=aksam.com.tr
 $discard,site=bloomberght.com
+$discard,site=sonhaberler.com
