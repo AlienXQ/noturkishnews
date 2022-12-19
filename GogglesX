@@ -3,9 +3,9 @@
 ! public: true
 ! author: GogglesX
 ! avatar:#f9fafd
-$boost=2,site=evrimagaci.org
-$boost=1,site=gidadedektifi.com
-$boost=1,site=arkeofili.com
+$boost=3,site=evrimagaci.org
+$boost=2,site=gidadedektifi.com
+$boost=2,site=arkeofili.com
 $discard,site=onedio.com
 $discard,site=birgun.net
 $discard,site=hurriyet.com.tr
@@ -84,3 +84,12 @@ $discard,site=news.google.com
 $discard,site=aksam.com.tr
 $discard,site=bloomberght.com
 $discard,site=sonhaberler.com
+$discard,site=karar.com
+$discard,site=haber61.com
+$discard,site=haber3.com
+$discard,site=fotospor.com
+$discard,site=kesannethaber.com
+$discard,site=corumhaber.net
+$discard,site=gursesgazetesi.com
+$discard,site=burduryenigun.com
+$discard,site=chp.org.tr
