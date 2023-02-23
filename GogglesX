@@ -31,6 +31,7 @@ $boost=3,site=health.harvard.edu
 $boost=3,site=hsph.harvard.edu
 $boost=1,site=tubitak.gov.tr
 $boost=1,site=kuark.org
+$boost=1,site=dunyahalleri.com
 $discard,site=onedio.com
 $discard,site=birgun.net
 $discard,site=hurriyet.com.tr
@@ -151,4 +152,6 @@ $discard,site=birborsa.com
 $discard,site=ucankus.com
 $discard,site=tv100.com
 $discard,site=ilkhaber-gazetesi.com
-
+$discard,site=oyunkolu.com
+$discard,site=balikburcu.org
+$discard,site=technopat.net
