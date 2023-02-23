@@ -28,6 +28,7 @@ $boost=1,site=fdroid.org
 $boost=1,site=exodus-privacy.eu.org
 $boost=1,site=physics.mit.edu
 $boost=1,site=health.harvard.edu
+$boost=1,site=hsph.harvard.edu
 $boost=1,site=tubitak.gov.tr
 $boost=1,site=kuark.org
 $discard,site=onedio.com
