@@ -142,3 +142,11 @@ $discard,site=fbi.gov
 $discard,site=cia.gov
 $discard,site=unfiltered.news
 $discard,site=tuik.gov.tr
+$discard,site=memurlar.net
+$discard,site=yenialanya.com
+$discard,site=haberiskelesi.com
+$discard,site=gunhaber.com.tr
+$discard,site=birborsa.com
+$discard,site=ucankus.com
+$discard,site=tv100.com
+
